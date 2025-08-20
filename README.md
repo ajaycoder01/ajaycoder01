@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajay Yadav
 
-<!--
-**ajaycoder01/ajaycoder01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack web developer who enjoys building web applications with modern technologies and clean UI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages:
+- C, C++
+- JavaScript (ES6+), PHP
+
+### 🌐 Frontend:
+- HTML, CSS, Bootstrap, Tailwind CSS
+- React.js
+
+### 🧰 Backend:
+- Node.js, Express.js
+- MySQL, MongoDB
+
+### ⚙️ Tools:
+- Git & GitHub
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [ajaywebmaster01@gmail.com](mailto:ajaywebmaster01@gmail.com)
+- 💼 LinkedIn: *[Link coming soon]*
+
+---
+
+## 📌 Fun Fact 
+
+-----
+
+Thanks for visiting my profile! Feel free to check out my repositories and connect. 😊
+
