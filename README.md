@@ -26,7 +26,7 @@ I'm a passionate full-stack web developer who enjoys building web applications w
 ## 📫 Contact Me
 
 - 📧 Email: [ajaywebmaster01@gmail.com](mailto:ajaywebmaster01@gmail.com)
-- 💼 LinkedIn: *[Link coming soon]*
+- 💼 LinkedIn: *[https://www.linkedin.com/in/ajaycoder/]*
 
 ---
 
