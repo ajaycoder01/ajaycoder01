@@ -32,7 +32,7 @@ I'm a passionate full-stack web developer who enjoys building web applications w
 
 ## 📌 Fun Fact 
 
------
+> 🧠... "Coding: where you spend 1% of your time writing code and 99% debugging why it doesn’t work."
 
 Thanks for visiting my profile! Feel free to check out my repositories and connect. 😊
 
